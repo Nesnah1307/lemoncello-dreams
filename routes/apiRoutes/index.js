@@ -3,9 +3,9 @@ const router = require('express').Router();
 
 
 router.get('/notes', (req, res) => {
-    const noteSaved = JSON.parse(fs.readFileSync("./db/db.json", "utf8"));
-    let success = noteSaved;
-    res.json(success);
+    const noteSave = JSON.parse(fs.readFileSync("./db/db.json", "utf8"));
+    // let success = noteSaved;
+    res.json(noteSave);
 });
 
 router.post('/notes', (req, res) => {
