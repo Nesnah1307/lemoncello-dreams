@@ -1,4 +1,5 @@
 # Lemoncello Dreams
+![Screenshot (27)](https://user-images.githubusercontent.com/96394025/162636861-407c15e8-1076-45f9-b31b-a65e9e1fe2e4.png)
 
   ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
   ## Description 
